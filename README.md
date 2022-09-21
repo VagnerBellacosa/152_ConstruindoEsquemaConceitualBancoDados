@@ -1,7 +1,7 @@
-# 152_ConstruindoEsquemaConceitualBancoDados
+# LABS
+
+## 152_ConstruindoEsquemaConceitualBancoDados
  Construindo um Esquema Conceitual para Banco De dados
-
-
 
 # **Descrição do Desafio**
 
@@ -26,8 +26,6 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 
 **Agora é a sua vez de ser o protagonista!** **Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!**
 
-
-
 ###### DESCRIÇÃO
 
 Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos.
@@ -49,7 +47,5 @@ Agora você irá criar um esquema conceitual do zero. A partir da narrativa forn
 ###### Juliana Mascarenhas
 
 Data Scientist, DIO[**](https://www.linkedin.com/in/juliana-mascarenhas-00349426/)
-
-
 
 https://web.dio.me/lab/construindo-um-esquema-conceitual-do-zero/learning/4439efcd-0494-4854-9ecb-56972e5ddc14
